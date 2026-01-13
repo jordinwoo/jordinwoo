@@ -9,12 +9,17 @@ I'm a recent graduate passionate about building responsive, accessible web appli
 ## 🎓 Education
 
 **Interactive Media Developer Diploma** | Camosun College | *Sept 2023 - Aug 2025*
-- Specialized in full-stack web development and user experience design
-- Dean's Honor Roll while competing as full-time student-athlete
+- Developed a fully responsive multi-page website using HTML, CSS, JavaScript, and Bootstrap, ensuring seamless functionality across mobile, tablet, and desktop.
+- Led UX wireframing and prototyping in Figma for an interdisciplinary education festival website created to showcase Health Sciences student work, including research projects, demonstrations, and program information.
+- Built an interactive JavaScript chatbot that fetched real-time API data and included full error handling and loading-state logic.
+- Managed project timelines for a 3-person capstone team, assigning tasks, tracking progress, and delivering completed builds on schedule.
+- Created 3D assets and animations in Maya and Unity for an interactive game used in final capstone project.
 
 **Digital Production, Writing and Design Certificate** | Camosun College | *Sept 2019 - May 2020*
-- Advanced media production and graphic design
-- Digital content creation and manipulation
+- Produced a short promotional video from concept to final edit, including storyboarding, filming, audio recording, and color correction.
+- Designed digital posters and visual assets for course projects using Adobe Illustrator, InDesign, and Photoshop, aligning design choices with specific audience needs.
+- Conducted an on-camera interview with CBC News for a class project, gaining experience in professional media communication and public storytelling.
+
 
 ---
 
@@ -70,14 +75,24 @@ I'm a recent graduate passionate about building responsive, accessible web appli
 ## 💼 Professional Experience Highlights
 
 **Manager & Photographer** | Mr Booth Photo Experience | *May 2022 - Present*
-- Train and supervise team members
-- Manage event logistics and technical equipment
-- Troubleshoot technical issues in real-time
+- Trained and onboarded new employees, creating step-by-step guides for camera settings, lighting, and customer interaction.
+- Managed 200+ live events, handling equipment setup, lighting adjustments, guest flow, and real-time troubleshooting to keep experiences running smoothly.
+- Coordinated event details directly with clients (weddings, corporate functions, community events) to confirm layouts, photo styles, and deliverables.
+- Independently solved technical issues such as printer jams, lighting failures, and software crashes under strict time pressure.
+- Captured and edited thousands of event photos, maintaining consistent quality and brand standards.
+
+**Photographer** | LifeTouch Canada | *Sept 2023 - June 2023*
+- Photographed 300–600 students per day across multiple schools while maintaining consistent framing and exposure.
+- Set up and dismantled complete studio equipment daily, including lighting, backdrops, and capture stations.
+- Coordinated with school staff to manage class schedules and maintain efficient photo-day workflows.
+- Ensured quality control for hundreds of portrait shots per session before batch submission.
 
 **Digital Content Developer** | One Voice Institute | *May 2020 - May 2022*
-- Consulted with clients on business goals and digital strategy
-- Produced promotional videos, photography, and marketing materials
-- Translated business requirements into technical solutions
+- Consulted with small business clients to determine messaging, goals, and visual style for promotional content.
+- Produced multiple promotional videos, including interview setups, B-roll capture, scripted segments, and full post-production edits.
+- Edited 50+ high-quality photos for websites and marketing materials using Adobe Photoshop and Lightroom.
+- Designed posters and social media assets for events, including a Halloween campaign that increased engagement for the client.
+- Captured product photography for retail and digital storefronts.
 
 **Real Estate Photographer** | VI Standard Real Estate Services | *May 2022 - Sept 2022*
 - Produced 3D VR Tours for residential and commercial properties
